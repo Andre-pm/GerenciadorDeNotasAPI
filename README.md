@@ -11,8 +11,6 @@ Windows:
 cd Gerenciador-Notas
 cd target
 Gerenciador-Notas-0.0.1-SNAPSHOT.jar
-
-
 ```
 
 ## Configuração para Desenvolvimento
