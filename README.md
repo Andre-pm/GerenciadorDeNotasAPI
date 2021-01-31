@@ -8,8 +8,7 @@ também é possivel ver o aluno ele obteve uma média maior ou igual a 7.
 ## Instalação
 
 ### Windows - macOS - Linux:
-
-Descompacte o projeto que foi compactado devido o tamanho do arquivo JAR, após isso no CMD faça:
+No CMD faça:
 
 ```sh
 cd GerenciadorDeNotasAPI
