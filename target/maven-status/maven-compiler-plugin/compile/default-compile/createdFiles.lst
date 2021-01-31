@@ -1,0 +1,10 @@
+com\API\GerenciadorNotas\controller\AlunoController.class
+com\API\GerenciadorNotas\GerenciadorNotasApiApplication.class
+com\API\GerenciadorNotas\model\Aluno.class
+com\API\GerenciadorNotas\controller\AprovadosController.class
+com\API\GerenciadorNotas\model\Gabarito.class
+com\API\GerenciadorNotas\model\Respostas.class
+com\API\GerenciadorNotas\controller\GabaritoController.class
+com\API\GerenciadorNotas\controller\RespostaController.class
+com\API\GerenciadorNotas\repository\GabaritoRepository.class
+com\API\GerenciadorNotas\repository\AlunoRepository.class
